@@ -1,0 +1,15 @@
+import { verifyTriangle } from "./verify-function.js";
+
+verifyTriangle(2, 2, 2)
+verifyTriangle(10, 10, 10)
+verifyTriangle(3, 4, 4)
+verifyTriangle(4, 3, 4)
+verifyTriangle(4, 4, 3)
+verifyTriangle(10, 10, 2)
+verifyTriangle(3, 4, 5)
+verifyTriangle(10, 11, 12)
+verifyTriangle(5, 4, 2)
+verifyTriangle(0, 0, 0)
+verifyTriangle(3, 4, -5)
+verifyTriangle(1, 1, 3)
+verifyTriangle(2, 4, 2)
